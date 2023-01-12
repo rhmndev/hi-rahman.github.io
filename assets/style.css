@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+body {
+  height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #cdfcd4;
+
+}
+
+#projects {
+  background-color: #cdfcd4;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
+
+.fa-user {
+  color: darkgreen;
+}
+
+.quotext {
+  color: rgb(135, 146, 163);
+  font-family: cursive;
+}
+
+.username {
+  font-family: cursive;
+  font-size: 15px;
+  font-weight: 100;
+}
