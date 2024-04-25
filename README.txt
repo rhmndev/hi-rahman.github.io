@@ -2,7 +2,3 @@ CONTACT FORM YANG SUDAH DIKIRIM AKAN MASUK KE GOOGLE SPREADSHEET. DAN BISA DIAKS
 
 CONTACT FORM :
 https://docs.google.com/spreadsheets/d/1jL3BD0YMQvzpdiXCwNfE1q-LREgM7iOembR6UV2Mka4/edit#gid=0
-
-
-DEMO WEBSITE PORTFOLIO :
-https://hi-rahman.github.io
